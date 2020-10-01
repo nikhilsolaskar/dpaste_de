@@ -2,6 +2,7 @@
 # This is an example wsgi script that currently
 # runs dpaste.de. Remove this comment until the
 # shebang line.
+# you can rename this file as readme file which will help to know the all coders.
 ################################################
 
 #!/usr/bin/env python
